@@ -77,7 +77,7 @@
     "yup": "^1.6.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.25.2",
+    "@babel/core": "^7.29.6",
     "@eslint/eslintrc": "^3.3.1",
     "@eslint/js": "^9.35.0",
     "@react-native-community/cli": "^20.1.2",
